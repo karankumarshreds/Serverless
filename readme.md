@@ -27,4 +27,10 @@ Used for prechecks of incoming requests like **Authorisation**, **Request valida
 Decides how the incoming request will be handled. That's it. It triggers the component which will execute the logic.
 **Note**: Does not execute any logic.
 
-3.
+3. Integration Response
+
+Extracts the data returned from the logic.
+
+4. Method Response
+
+We can set the status code and the structure of the final response.
