@@ -1,4 +1,4 @@
-# AWS serverless lambda
+# AWS serverless
 
 Servers will be managed by the AWS using its service **lamdba**.
 
