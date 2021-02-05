@@ -18,6 +18,8 @@ We can create an `api-key` and use it from the client side to send the request t
 
 ## Flow
 
+**Integration** === **Type of action**
+
 1. Method Request
 
 Used for prechecks of incoming requests like **Authorisation**, **Request validators**, **API key validation** etc
